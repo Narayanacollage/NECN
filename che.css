@@ -1,0 +1,27 @@
+#nar{
+    padding: 0;
+    margin: 0;
+    border-color: black;
+    border-radius: 60px;
+    border-style: none;
+}
+#img{
+    padding: 0;
+    margin: 0;
+}
+#mod1{
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 500px;
+    background-color: black;
+    background-size: cover;
+    background: black;
+}
+#h1{
+    width: 500px;
+    color: chocolate;
+    font-weight: 600;
+    font-style: italic;
+}
